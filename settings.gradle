@@ -9,5 +9,5 @@
 
 rootProject.name = 'gradle-example'
 include('app')
-include 'module-1'
+include ('module-1')
 
